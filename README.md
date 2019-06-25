@@ -1,4 +1,4 @@
-# A/B Testing Project
+# TMDb Movie Data Analysis Project
 
 In this project, the dataset I analyzed on is TMDb movie data. This data set contains information about 10,000 movies collected from the Movie Database (TMDb), including user ratings and revenue. 
 
