@@ -10,7 +10,7 @@ This project will deliver a general overview on process of data analysis startin
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar.
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install libraries.
 
 ```bash
 python3   -m pip install Package_name
